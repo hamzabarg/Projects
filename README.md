@@ -4,5 +4,5 @@ A collection of my work in **Embedded Systems & Digital Design**, combining hard
 
 ### Skills  
 C, C++, Python, Assembly | MPLAB, Arduino IDE, Proteus, LTSpice, ModelSim  
-
-📬 Email: hamzabarg11@gmail.com  
+  
+🌐 LinkedIn: [linkedin.com/in/hamza-barg-4385252a5](https://www.linkedin.com/in/hamza-barg-4385252a5)  
